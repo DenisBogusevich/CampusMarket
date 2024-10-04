@@ -21,7 +21,9 @@
 
     <modules>
         <module>Configuration Server</module>
+        <module>Eureka server</module>
         <module>product-service</module>
+        <module>File Service</module>
     </modules>
     <build>
         <plugins>
