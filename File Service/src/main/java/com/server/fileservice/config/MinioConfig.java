@@ -1,4 +1,4 @@
-package com.server.fileservice.logic;
+package com.server.fileservice.config;
 
 import io.minio.BucketExistsArgs;
 import io.minio.MakeBucketArgs;

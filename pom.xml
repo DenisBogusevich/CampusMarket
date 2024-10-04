@@ -20,6 +20,7 @@
     <description>Parent POM for CampusMarket</description>
 
     <modules>
+        <module>API Gateway server</module>
         <module>Configuration Server</module>
         <module>Eureka server</module>
         <module>product-service</module>

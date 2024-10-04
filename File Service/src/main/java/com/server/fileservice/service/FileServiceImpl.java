@@ -1,4 +1,4 @@
-package com.server.fileservice.logic;
+package com.server.fileservice.service;
 
 import io.minio.GetObjectArgs;
 import io.minio.MinioClient;

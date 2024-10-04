@@ -1,5 +1,6 @@
-package com.server.fileservice.logic;
+package com.server.fileservice.controller;
 
+import com.server.fileservice.service.FileService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.HttpHeaders;
